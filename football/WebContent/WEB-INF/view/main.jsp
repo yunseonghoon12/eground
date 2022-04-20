@@ -118,7 +118,7 @@
 	                <li class="slideitem">
 	                <p style="width: 90px; height: 50px; margin-left: 45px;">22<br>금</p>
 	                </li>
-	            </a>    
+	            </a>  
 		    </ul>
 	
 	        <div class="slide-control">
