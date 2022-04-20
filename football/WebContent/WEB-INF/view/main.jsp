@@ -25,9 +25,9 @@
 
     [name="slide"] {display:none;}
     #slide01:checked ~ .slidelist .slideitem {left:0;}
-    #slide02:checked ~ .slidelist .slideitem {left:-100%;}
-    #slide03:checked ~ .slidelist .slideitem {left:-200%;}
-    #slide04:checked ~ .slidelist .slideitem {left:-300%;}
+    #slide02:checked ~ .slidelist .slideitem {left:-200%;}
+    #slide03:checked ~ .slidelist .slideitem {left:-400%;}
+    #slide04:checked ~ .slidelist .slideitem {left:-600%;}
 
     .slide-control [class*="control"] {display:none;}
     #slide01:checked ~ .slide-control .control01 {display:block;}
