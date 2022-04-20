@@ -14,7 +14,6 @@
 	height: 60px;
 	margin: 10px auto 0;
 	left: 350px;
-	position: absolute;
 }
 
 .headNav1>li {
